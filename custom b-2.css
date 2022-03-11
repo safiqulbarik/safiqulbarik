@@ -1,0 +1,101 @@
+
+
+body{
+    background-image: url("../img/bg_main.gif");
+    background-repeat: no-repeat;
+}
+
+
+
+
+.container
+{
+    width: 75%;
+    height: auto;
+    margin:0 auto;
+
+}
+/* --------Top Menu ------ */
+
+.speical-green-box{
+    background-color:  #8CC643;
+    margin-left: -18px;
+    height: 35px;
+    margin-top: -6px;
+    
+}
+
+.speical-green-box:hover{
+    background-color:  red;
+}
+
+
+.speical-green-box:hover{
+    background-color:  red;
+}
+.green-box-all{
+    background-color:  #8CC643;
+    height: 35px;
+    margin-left: 1px;
+    margin-top: -6px;
+}
+
+
+.green-box-all:hover{
+    background-color:  red;
+}
+
+    
+.triangle-down{
+    width: 5px;
+    height: 5px;
+    border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    border-top: 36px solid #8CC643;
+    margin-top: -6px;
+
+}
+
+
+.triangle-down:hover{
+    width: 5px;
+    height: 5px;
+    border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    border-top: 36px solid red;
+    margin-top: -6px;
+}
+
+
+/* --------Start Navtab------ */
+
+.services-tab-img
+{
+margin: 10px 15px;
+}
+
+.services-tab-colour
+{
+    background-color: #9e5bba;
+    padding-right: 1px;
+    
+}
+
+.services-font-colour
+{
+    color: white;    
+    font-weight: bold;
+}
+
+/* --------End of Nav tab------- */
+
+
+
+
+
+
+
+
+
+
+
