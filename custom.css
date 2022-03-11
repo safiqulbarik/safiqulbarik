@@ -1,0 +1,176 @@
+body{
+    background-image: url("../img/bg_main.gif");
+  margin-left: 100px;
+}
+
+.header-one{
+    background-color: #9e5bba;
+    color: white;
+    border-bottom: 1px solid red;
+    padding: 2px;
+}
+
+
+.header-two{
+  padding: 8px 0px;
+
+}
+
+.container
+{
+    width: 80.5%;
+    height: auto;
+    margin:0 auto;
+
+}
+
+.menu{
+    font-size: 12px;
+}
+
+.img-main{
+width:650px;
+    height:300px ;
+    padding: 0;
+    margin: 0;
+}
+
+.img-slide-bar{
+    width: 315px;
+    height:60px;
+    padding: 5px;
+}
+
+
+
+.rolling
+{
+    width: 650px;
+    height: 50px;
+    background-color:#d1cfb20;
+    padding: 2px 2px;
+    margin: 5px 0px;
+    font-size: larger;
+    font-family: kalpurushregular!important;
+
+}
+
+.initiatives
+{
+    color: #69308f;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.right-sidbar
+{
+    background-color: #609513;
+    color: white;
+    padding: 5px;
+
+}
+
+.img-14
+{
+    height: 260px;
+    width: 100%;
+}
+
+.footer-css
+{
+    padding-top: 80px;
+margin: 0 auto;
+}
+
+
+.img-font
+{
+    height:65px;
+    width: 222px;
+
+}
+
+.three-menu
+  {
+    font-size: 14px;
+  }
+  
+  
+  /* --------Top Menu ------ */
+
+.speical-green-box{
+    background-color:  #8CC643;
+    margin-left: -18px;
+    height: 35px;
+    margin-top: -6px;
+    
+}
+
+.speical-green-box:hover{
+    background-color:  red;
+}
+
+
+.speical-green-box:hover{
+    background-color:  red;
+}
+.green-box-all{
+    background-color:  #8CC643;
+    height: 35px;
+    margin-left: 1px;
+    margin-top: -6px;
+}
+
+
+.green-box-all:hover{
+    background-color:  red;
+}
+
+    
+.triangle-down{
+    width: 5px;
+    height: 5px;
+    border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    border-top: 36px solid #8CC643;
+    margin-top: -6px;
+
+}
+
+
+.triangle-down:hover{
+    width: 5px;
+    height: 5px;
+    border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    border-top: 36px solid red;
+    margin-top: -6px;
+}
+  /* --------End Top meun ------ */
+
+
+
+
+/* --------Start Navtab------ */
+
+.services-tab-img
+{
+margin: 10px 15px;
+}
+
+.services-tab-colour
+{
+    background-color: #9e5bba;
+    padding-right: 1px;
+    
+}
+
+.services-font-colour
+{
+    color: white;    
+    font-weight: bold;
+}
+
+/* --------End of Nav tab------- */
+
